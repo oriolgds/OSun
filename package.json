@@ -1,0 +1,22 @@
+{
+  "name": "osun",
+  "version": "1.0.0",
+  "description": "An app to view the weather in your location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fda"
+  },
+  "keywords": [
+    "weather",
+    "electron",
+    "js",
+    "html",
+    "api"
+  ],
+  "author": "oriolgds",
+  "license": "MIT"
+}
